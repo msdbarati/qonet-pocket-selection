@@ -41,9 +41,9 @@ depth.json                     # first-moment depth-contraction data (Fig. 1a)
 diag.json                      # per-family D, T, S diagnostics
 pocket_selection.png           # Figure 1
 pocket_generalization.png      # Figure 2
-paper/main_ieee.tex            # IEEEtran LaTeX source (submission)
-paper/content.tex              # shared paper body (sections, equations, tables, refs)
-paper/main_preview.pdf         # compiled 4-page preview
+paper/main_ieee.tex            # IEEEtran LaTeX source (will be submitted)
+paper/content.tex              # shared paper body (sections, equations, tables, refs) (will be submitted)
+paper/main_preview.pdf         # compiled 4-page preview (will be submitted)
 requirements.txt
 ```
 
