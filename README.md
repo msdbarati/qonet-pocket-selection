@@ -2,7 +2,7 @@
 
 Code and paper for a **training-free initialization criterion** for the Quantum DeepONet
 (QONet) applied to partial differential equations (PDEs). We extend the first-moment
-barren-plateau framework of Kulshrestha *et al.* (arXiv:2606.18515) in two ways:
+barren-plateau framework in two ways:
 
 1. **Data-averaged first-moment operator** — averages the Heisenberg-evolved readout over
    *both* the parameter ensemble and the PDE input-function ensemble, giving a computable
