@@ -111,7 +111,7 @@ pdflatex main_ieee.tex   # requires IEEEtran.cls (bundled with TeX Live / availa
 ```bibtex
 @inproceedings{barati2026pocket,
   title     = {Data-Aware Pocket Selection for Initializing Quantum DeepONets for PDEs},
-  author    = {Barati, Masoud and Wu, Jorgen and Givi, Peyman },
+  author    = {Barati, Masoud and Wu, Jorgen and Givi, Peyman},
   booktitle = {QC4PDE Workshop, IEEE Quantum Week (QCE)},
   year      = {2026}
 }
